@@ -1,7 +1,7 @@
 ## Vuejs Assignmet WeLinq
 
  ## Table of Contents 
- -[Problem Statemen](#problem-statement)
+- [Problem Statemen](#problem-statement)
 - [Tech Stack](#tech-stack)
 - [Results](#results)
 - [Overview](#overview)
