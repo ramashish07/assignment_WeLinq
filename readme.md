@@ -21,3 +21,6 @@
 ![image](https://github.com/ramashish07/assignment_WeLinq/assets/91429764/22762399-5800-4427-9e69-1653693840ef)
 
 ## Overview
+- Used axios for fetching of APIs
+- made contents dynamic using the given api
+  
