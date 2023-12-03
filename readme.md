@@ -1,19 +1,23 @@
-## Vuejs Assignmet
+## Vuejs Assignmet WeLinq
 
-- First install VUE CLI globally .@vue/cli is the official Command Line Interface for Vue.js. It provides a set of commands and a development environment for building Vue.js applications. The Vue CLI simplifies the process of setting up, developing, and building Vue.js projects.
+ ## Table of Contents 
+ -[Problem Statemen](#problem-statement)
+- [Tech Stack](#tech-stack)
+- [Results](#results)
+- [Overview](#overview)
 
-```
-npm install -g @vue/cli
-```
 
-- Create a New Vue Project
+## Problem Statement
+- Create the given page  using vue.js which calls the API and lists the therapists as in the given figure
 
-```
- vue create therapists
-```
+## Tech Stack
 
-- Navigate to Project
+ Vuejs,CSS
 
-```
- cd therapists
-```
+## Results 
+
+![image](https://github.com/ramashish07/assignment_WeLinq/assets/91429764/40c2ed2c-8b88-48c7-81a0-77917595c65a)
+
+![image](https://github.com/ramashish07/assignment_WeLinq/assets/91429764/22762399-5800-4427-9e69-1653693840ef)
+
+## Overview
